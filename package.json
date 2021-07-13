@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-first-express-server",
+  "version": "1.0.0",
+  "description": "Your first NodeJS Express Server",
+  "main": "./server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coding-Catharsis-Inc/NodeJS-First-Express-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coding-Catharsis-Inc/NodeJS-First-Express-Server/issues"
+  },
+  "homepage": "https://github.com/Coding-Catharsis-Inc/NodeJS-First-Express-Server#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
